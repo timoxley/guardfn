@@ -1,0 +1,17 @@
+{
+  "name": "guardfn",
+  "version": "0.0.0",
+  "description": "Conditional function execution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.13.3"
+  },
+  "dependencies": {
+    "sliced": "0.0.5"
+  }
+}
