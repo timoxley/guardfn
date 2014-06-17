@@ -14,7 +14,7 @@ var user = {
     console.log('Saved "%s"!', this.name)
   },
   validate: function() {
-    return name.length < 10
+    return this.name.length < 10
   }
 }
 
