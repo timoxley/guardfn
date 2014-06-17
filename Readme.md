@@ -33,6 +33,11 @@ user.save() // => undefined
 * Original arguments will be passed as regular arguments to the guard function.
 * Original `this` context is maintained.
 
+## See Also
+
+* [timoxley/beforefn](http://github.com/timoxley/beforefn)
+* [timoxley/afterfn](http://github.com/timoxley/afterfn)
+
 ## License
 
 MIT
