@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/timoxley/guardfn/issues"
   },
-  "homepage": "https://github.com/timoxley/guardfn"
+  "homepage": "https://github.com/timoxley/guardfn",
+  "keywords": [
+    "aspect",
+    "aop",
+    "functional",
+    "oriented"
+  ]
 }
