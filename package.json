@@ -1,17 +1,29 @@
 {
   "name": "guardfn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Conditional function execution.",
   "main": "index.js",
   "scripts": {
     "test": "tape test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tim Oxley",
+  "license": "MIT",
   "devDependencies": {
     "tape": "^2.13.3"
   },
   "dependencies": {
     "sliced": "0.0.5"
-  }
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/guardfn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/guardfn/issues"
+  },
+  "homepage": "https://github.com/timoxley/guardfn"
 }
